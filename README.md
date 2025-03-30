@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **piyushgunjan09@gmail.com**
 
-- 🌐 Portfolio <a href="[https://piyushgupta.me/](https://piyushgupta.works/)"><b>piyushgupta.works</b></a>
+- 🌐 Portfolio <a href="https://piyushgupta.works/"><b>piyushgupta.works</b></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
